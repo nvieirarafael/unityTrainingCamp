@@ -25,6 +25,8 @@ public class MySimpleCharacterInput : RaycastCharacterInput
 			Application.LoadLevel(0);
 		}
 
+		Debug.Log(Input.GetAxis("Horizontal"));
+
 		jumpButtonHeld = false;
 		jumpButtonDown = false;
 		dropFromPlatform = false;
