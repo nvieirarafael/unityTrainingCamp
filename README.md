@@ -7,6 +7,8 @@ Repositório para testes de funcionalidades e plugins do **Unity3D 4.3.4**
 ### Plugins
 
 1. **Scene Sync**
+	* Iniciei alguns testes na pasta _Scenes/SceneSyncTest/_ simples de usar, bastando ler as  [instruções](https://github.com/nvieirarafael/unityTrainingCamp/raw/master/Assets/SceneSync/Instructions.pdf). Ou assistir aos [tutoriais](https://www.youtube.com/playlist?list=PLm1w78-UUlMJmB0xD5EirDjHtsWfVX0-T&feature=view_all) fornecidos pelo autor.
+	
 2. **2D Platform Controller**
 		
 	* Na scene _2DPlatformControllerUsingPS3Control.unity_ utilizei o InputManager para mapear os botões do controle de playstation3.    
